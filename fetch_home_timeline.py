@@ -1,0 +1,1 @@
+from twitter_env import BEARER_TOKEN as TWITTER_BEARER_TOKEN
